@@ -9,10 +9,10 @@
         "test" : "test"
     },
     "dependencies" : {
-        "headless" : "~0.1.0",
-        "merge" : "~1.0.0",
-        "mkdirp" : "~0.3.3",
-        "plist" : "0.2.1"
+        "headless" : "~1.0.0",
+        "merge" : "~1.2.0",
+        "mkdirp" : "~0.5.1",
+        "plist" : "2.0.1"
     },
     "repository" : {
         "type" : "git",
